@@ -12,5 +12,5 @@ app.get('/', (req, res, next) => {
 
 
 app.listen(4000, () => {
-  console.log("Launching")
+  console.log("Launching Growers App Backend..")
 })
